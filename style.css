@@ -44,3 +44,15 @@ body {
     border-bottom-right-radius: 40px;
     box-shadow: 20px 20px 0 10px #444;
 }
+.bulb span:nth-child(1) {
+    position: absolute;
+    display: block;
+    top: -16px;
+    left: -4px;
+    width: 30px;
+    height: 30px;
+    background: transparent;
+    transform: rotate(341deg);
+    border-bottom-right-radius: 40px;
+    box-shadow: 20px 20px 0 10px #444;
+}
