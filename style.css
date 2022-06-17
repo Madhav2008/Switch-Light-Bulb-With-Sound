@@ -35,7 +35,7 @@ body {
 .bulb span:nth-child(1) {
     position: absolute;
     display: block;
-    top: -20px;
+    top: -20px;left: ;
     width: 30px;
     height: 30px;
     background: #f00;
