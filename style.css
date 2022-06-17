@@ -45,7 +45,7 @@ body {
     box-shadow: 20px 20px 0 10px #444;
 }
 
-.bulb span:nth-child(1) {
+.bulb span:nth-child(2) {
     position: absolute;
     display: block;
     top: -16px;
