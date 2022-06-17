@@ -32,6 +32,6 @@ body {
     border-radius: 10px;
 }
 
-.bulb span {
+.bulb span:nth-child(1) {
     position: absolute;
 }
