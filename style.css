@@ -23,7 +23,7 @@ body {
 .bulb::before {
     content: '';
     position: absolute;
-    left: ;
+    left: 50%;
     width: 35px;
     height: 80px;
     background: #444;
