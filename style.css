@@ -39,7 +39,8 @@ body {
     left: 0;
     width: 30px;
     height: 30px;
-    background: transparent;transform: ;
+    background: transparent;
+    transform: ;
     border-bottom-right-radius: 40px;
     box-shadow: 20px 20px 0 10px #0f0;
 }
