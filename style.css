@@ -36,7 +36,7 @@ body {
     position: absolute;
     display: block;
     top: -16px;
-    left: 0;
+    left: -10px;
     width: 30px;
     height: 30px;
     background: transparent;
