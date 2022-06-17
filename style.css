@@ -24,5 +24,6 @@ body {
     content: '';
     position: absolute;
     width: 35px;
-    height: 80px;background: #444;
+    height: 80px;
+    background: #444;
 }
