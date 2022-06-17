@@ -37,6 +37,6 @@ body {
     display: block;
     width: 30px;
     height: 30px;
-    background: #f00;
+    background: #f00;border-bottom-left-radius: ;
     box-shadow: 20px 20px 0 10px #0f0;
 }
