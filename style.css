@@ -32,4 +32,6 @@ body {
     border-radius: 10px;
 }
 
-.bulb span {position: absolute;}
+.bulb span {
+    position: absolute;
+}
