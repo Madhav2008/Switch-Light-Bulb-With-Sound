@@ -23,5 +23,5 @@ body {
 .bulb::before {
     content: '';
     position: absolute;
-    width: 35px;
+    width: 35px;height: ;
 }
