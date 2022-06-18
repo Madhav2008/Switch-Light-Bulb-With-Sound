@@ -42,7 +42,8 @@ body.on {
     position: absolute;
     top: 50%;
     left: 50%;
-    transform: translate(-50%, -50%);width: ;
+    transform: translate(-50%, -50%);
+    width: ;
 }
 
 .bulb span:nth-child(1) {
