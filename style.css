@@ -59,7 +59,7 @@ body {
 }
 
 .wire {
-    position: absolute;
+    position: absolute;left: ;
     width: 4px;
     height: 60vh;
     background: #000;
