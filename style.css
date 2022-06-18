@@ -13,7 +13,7 @@ body {
 }
 
 body.on {
-    background: radial-gradient();
+    background: radial-gradient(#555);
 }
 
 .bulb {
