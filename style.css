@@ -18,7 +18,7 @@ body {
     height: 80px;
     background: #444;
     border-radius: 50%;
-    z-index: ;
+    z-index: 2;
 }
 
 .bulb::before {
