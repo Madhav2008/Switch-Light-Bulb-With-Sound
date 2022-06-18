@@ -25,7 +25,7 @@ body.on {
     z-index: 2;
 }
 
-body.on {}
+body.on .bulb{}
 
 .bulb::before {
     content: '';
