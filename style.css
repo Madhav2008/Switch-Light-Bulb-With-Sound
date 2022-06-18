@@ -48,7 +48,7 @@ body.on .bulb {
     border-radius: 10px;
 }
 
-body.on .bulb::before {}
+body.on .bulb::before {background: ;}
 
 body.on .bulb::after {
     content: '';
