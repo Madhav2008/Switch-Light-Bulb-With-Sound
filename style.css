@@ -27,7 +27,7 @@ body.on {
 
 body.on .bulb {
     background: #fff;
-    box-shadow: 0 0 20px;
+    box-shadow: 0 0 50px;
 }
 
 .bulb::before {
