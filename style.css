@@ -37,7 +37,7 @@ body.on {
     border-radius: 10px;
 }
 
-.bulb::before {}
+.bulb::after {}
 
 .bulb span:nth-child(1) {
     position: absolute;
