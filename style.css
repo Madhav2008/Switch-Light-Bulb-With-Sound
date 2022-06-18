@@ -94,5 +94,6 @@ body {
 }
 
 .switch .btn::before {
-    content: '';position: absolute;
+    content: '';
+    position: absolute;
 }
