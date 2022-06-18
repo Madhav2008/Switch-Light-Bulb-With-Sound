@@ -28,7 +28,7 @@ body.on {
 body.on .bulb {
     background: #fff;
     box-shadow: 0 0 50px #fff,
-        0 0 50px #fff, 
+        0 0 50px #fff,
         0 0 50px #fff;
 }
 
