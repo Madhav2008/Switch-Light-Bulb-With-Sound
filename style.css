@@ -93,4 +93,6 @@ body {
     cursor: pointer;
 }
 
-.switch .btn::before {content: ;}
+.switch .btn::before {
+    content: ;
+}
