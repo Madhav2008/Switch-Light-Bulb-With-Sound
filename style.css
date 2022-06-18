@@ -60,7 +60,8 @@ body {
 
 .wire {
     position: absolute;
-    left: calc(50% - 2px);bottom: 50%;
+    left: calc(50% - 2px);
+    bottom: 50%;
     width: 4px;
     height: 60vh;
     background: #000;
