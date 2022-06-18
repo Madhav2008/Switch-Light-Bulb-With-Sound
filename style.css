@@ -23,7 +23,7 @@ body.on {
     background: #444;
     border-radius: 50%;
     z-index: 2;
-}
+}body
 
 .bulb::before {
     content: '';
