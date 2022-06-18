@@ -69,4 +69,6 @@ body {
     z-index: 1;
 }
 
-.switch {position: absolute;}
+.switch {
+    position: absolute;
+}
