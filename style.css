@@ -104,4 +104,6 @@ body {
     border-radius: 4px;
 }
 
-.on .switch .btn::before {top: 0;}
+.on .switch .btn::before {
+    top: 0;
+}
