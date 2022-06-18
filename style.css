@@ -72,5 +72,6 @@ body {
 .switch {
     position: absolute;
     width: 80px;
-    height: 80px;background: ;
+    height: 80px;
+    background: ;
 }
