@@ -84,5 +84,5 @@ body {
 }
 
 .switch .btn {
-    position: relative;
+    position: relative;width: 25px;
 }
