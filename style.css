@@ -44,7 +44,7 @@ body.on {
     left: 50%;
     transform: translate(-50%, -50%);
     width: 120px;
-    height: ;
+    height: 120px;
 }
 
 .bulb span:nth-child(1) {
