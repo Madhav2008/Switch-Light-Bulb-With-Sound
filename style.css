@@ -33,7 +33,7 @@ body.on .bulb {
         0 0 200px #fff,
         0 0 250px #fff,
         0 0 300px #fff,
-        0 0 300px #fff;
+        0 0 350px #fff;
 }
 
 .bulb::before {
