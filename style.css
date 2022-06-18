@@ -78,5 +78,5 @@ body {
     background: linear-gradient(#eee, #ccc, #eee);
     border: 3px solid #000;
     border-radius: 10px;
-    display: flex;
+    display: flex;justify-content: ;
 }
