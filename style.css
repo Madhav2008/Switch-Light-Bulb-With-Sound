@@ -96,7 +96,7 @@ body.on .bulb span:nth-child(1) {
 }
 
 body.on .bulb span:nth-child(2) {
-    box-shadow: 20px 20px 0 10px #fff;
+    box-shadow: -20px 20px 0 10px #fff;
 }
 
 .wire {
