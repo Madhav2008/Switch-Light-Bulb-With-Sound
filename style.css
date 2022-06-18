@@ -49,7 +49,7 @@ body.on .bulb {
 }
 
 body.on .bulb::before {
-    background: ;
+    background: #fff;
 }
 
 body.on .bulb::after {
