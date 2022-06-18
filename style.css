@@ -40,7 +40,7 @@ body.on {
 .bulb::after {
     content: '';
     position: absolute;
-    top: ;
+    top: 50%;
 }
 
 .bulb span:nth-child(1) {
