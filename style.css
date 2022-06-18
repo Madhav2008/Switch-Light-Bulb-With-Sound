@@ -77,5 +77,6 @@ body {
     height: 80px;
     background: linear-gradient(#eee, #ccc, #eee);
     border: 3px solid #000;
-    border-radius: 10px;display: flex;
+    border-radius: 10px;
+    display: flex;
 }
