@@ -45,7 +45,8 @@ body.on .bulb::after {
     transform: translate(-50%, -50%);
     width: 120px;
     height: 120px;
-    background: #fff;border-radius: ;
+    background: #fff;
+    border-radius: ;
 }
 
 .bulb span:nth-child(1) {
