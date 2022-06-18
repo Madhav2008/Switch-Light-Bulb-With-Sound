@@ -12,7 +12,7 @@ body {
     background: #222;
 }
 
-body.on {}
+body.on {background: ;}
 
 .bulb {
     position: relative;
