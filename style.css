@@ -58,4 +58,6 @@ body {
     box-shadow: -20px 20px 0 10px #444;
 }
 
-.wire {position: absolute;}
+.wire {
+    position: absolute;
+}
