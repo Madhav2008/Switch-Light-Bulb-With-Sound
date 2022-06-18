@@ -72,7 +72,7 @@ body {
 .switch {
     position: absolute;
     bottom: 50px;
-    right: ;
+    right: 50px;
     width: 80px;
     height: 80px;
     background: linear-gradient(#eee, #ccc, #eee);
