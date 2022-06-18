@@ -47,7 +47,7 @@ body.on .bulb::after {
     height: 120px;
     background: #fff;
     border-radius: 50%;
-    filter: ;
+    filter: blur();
 }
 
 .bulb span:nth-child(1) {
