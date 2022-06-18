@@ -83,4 +83,6 @@ body {
     align-items: center;
 }
 
-.switch .btn {position: relative;}
+.switch .btn {
+    position: relative;
+}
