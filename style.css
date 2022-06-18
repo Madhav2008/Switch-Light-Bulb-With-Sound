@@ -89,5 +89,6 @@ body {
     height: 40px;
     background: linear-gradient(#777, #fff, #777);
     border-radius: 6px;
-    border: 2px solid #000;cursor: ;
+    border: 2px solid #000;
+    cursor: ;
 }
