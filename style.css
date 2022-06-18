@@ -38,7 +38,8 @@ body.on {
 }
 
 .bulb::after {
-    content: '';position: absolute;
+    content: '';
+    position: absolute;
 }
 
 .bulb span:nth-child(1) {
