@@ -105,5 +105,5 @@ body {
 }
 
 .on .switch .btn::before {
-    top: 0;
+    top: 15%;
 }
