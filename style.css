@@ -37,7 +37,7 @@ body.on {
     border-radius: 10px;
 }
 
-.bulb::after {
+body.on .bulb::after {
     content: '';
     position: absolute;
     top: 50%;
